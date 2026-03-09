@@ -1,0 +1,30 @@
+
+# ignore ALL .log files
+*.log
+
+# ignore ALL .zip files
+*.zip
+
+# ignore ALL /work/* files
+/work/*
+
+# ignore ALL .DS.Store files
+.DS_Store
+
+# ignore ALL Xcode 
+*.xcuserstate
+
+# ignore VisualSlickEdit Project file(s)
+*.vtg
+*.vpw
+*.vpj
+*.vpwhistuxml
+
+# ignore Xcode per-User settings binary file
+UserInterfaceState.xcuserstate
+
+VisitVerify.xcodeproj/project.xcworkspace/xcuserdata/dcox.xcuserdatad/UserInterfaceState.xcuserstate
+VisitVerify.xcodeproj/project.xcworkspace/xcuserdata/dcox.xcuserdatad/UserInterfaceState.xcuserstate
+VisitVerify.xcodeproj/project.xcworkspace/xcuserdata/tonyaguinaga.xcuserdatad/UserInterfaceState.xcuserstate
+
+*.ipa
