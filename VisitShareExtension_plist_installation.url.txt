@@ -1,1 +1,1 @@
-itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DFW-PMA/VisitShareExtension/refs/heads/main/VisitShareExtension/VisitShareExtension.plist
+itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DFW-PMA/VisitShareExtension_VSX-Releases/refs/heads/main/VisitShareExtension.plist
